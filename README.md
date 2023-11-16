@@ -28,7 +28,7 @@ Make sure you have the following dependencies installed:
     ```bash
     python main.py
     ```
-4. See the runtimes of the solved crosswords in runnning_time.png
+4. See the runtimes of the solved crosswords in running_time.png
 
 ## Implementation Details
 The solver is implemented with the following key components:
