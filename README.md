@@ -22,11 +22,11 @@ Make sure you have the following dependencies installed:
     ```
 2. Navigate to the project directory.
     ```bash
-    cd crossword-puzzle-solver
+    cd Crossword-Puzzle-as-a-CSP
     ```
 3. Run the solver script.
     ```bash
-    python crossword_solver.py
+    python main.py
     ```
 4. Follow the on-screen instructions to input the crossword puzzle and initiate the solving process.
 
